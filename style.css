@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+
+.outer{
+    width: 700px;
+    height: 800px;
+    
+    margin: 0px auto;
+
+
+}
+.outer h1{
+    text-align: center;
+    color:black;
+}
+ hr{
+    width: 50%;
+    margin: 0 auto;
+    height: 2px;
+    background-color: black;
+}
+p{
+    text-align: left;
+}
+.made{
+
+ width: 100%;
+margin: 0 auto;
+height: 1px;
+background-color:hsl(0, 0%, 50%);
+}
+.border{
+    text-align: left;
+    width: 100%;
+    padding: 5px;
+    background-color: rgb(16, 240, 240);
+    border: 1px solid black;
+    font-weight: bold;
+}
+.mine{
+     text-align: left;
+}
+ul{
+      font-size: 20px;
+margin-left: 20px;
+text-align: left;
+}
+img{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h2{
+    text-align: right;
+}
